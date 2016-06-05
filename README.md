@@ -6,6 +6,12 @@ You could get away from using therubyracer gem by using a pre-built nodejs for t
 
 Hope this will help others in the future. 
 
+### tags and versions
+- [`2.2.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.3/Dockerfile)
+- [`2.2.4`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.4/Dockerfile)
+- [`2.2.5`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.5/Dockerfile)
+- [`2.3.0`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.0/Dockerfile)
+- [`2.3.1`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile))
 
 
 ### Supported Docker versions
