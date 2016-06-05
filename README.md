@@ -1,4 +1,4 @@
-# ruby-node-alpine
+# Minimal Ruby and NodeJS built on top of Alpine Linux Docker Image (Approx. 50MB)
 Self explanatory, ruby build on top of nodejs and alpine image
 
 This will be a great base image for people working with rails applications. 
@@ -6,12 +6,12 @@ You could get away from using therubyracer gem by using a pre-built nodejs for t
 
 Hope this will help others in the future. 
 
-### tags and versions
+### Tags and Versions
 - [`2.2.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.3/Dockerfile)
 - [`2.2.4`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.4/Dockerfile)
-- [`2.2.5`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.5/Dockerfile)
+- [`2.2.5`, `2.2`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.5/Dockerfile)
 - [`2.3.0`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.0/Dockerfile)
-- [`2.3.1`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile))
+- [`2.3.1`, `2.3`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile)
 
 
 ### Supported Docker versions
