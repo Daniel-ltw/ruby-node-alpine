@@ -14,6 +14,21 @@ Hope this will help others in the future.
 - [`2.3.1`, `2.3`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile)
 
 
+### Gem dependencies
+When you install gems, there are gems with specific native dependencies. 
+
+You have to add the respective alpine package before installing the respective gems. 
+```
+apk --update add ${packages}
+```
+
+The few known dependencies are:
+* ffi: libffi-dev
+* nokogiri: libxml2 libxslt libxml2-dev libxslt-dev
+* rmagick: imagemagick imagemagick-dev
+* raindrops: linux-headers
+
+
 ### Supported Docker versions
 
 This image is officially supported on Docker version 1.11.2.
