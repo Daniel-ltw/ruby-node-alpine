@@ -27,6 +27,11 @@ The few known dependencies are:
 * nokogiri: libxml2 libxslt libxml2-dev libxslt-dev
 * rmagick: imagemagick imagemagick-dev
 * raindrops: linux-headers
+* pg: postgresql-client postgresql-dev
+
+p.s.: there are also a few native compilation dependencies that you have to keep in mind. 
+* g++
+* make
 
 
 ### Supported Docker versions
