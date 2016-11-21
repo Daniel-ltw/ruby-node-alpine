@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:latest
+FROM scardon/alpine-node-yarn:latest
 
 # skip installing gem documentation
 RUN mkdir -p /usr/local/etc \

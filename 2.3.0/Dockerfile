@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:latest
+FROM scardon/alpine-node-yarn:latest
 
 ## ruby alpine docker hub library
 
