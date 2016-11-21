@@ -1,4 +1,4 @@
-# Minimal Ruby and NodeJS/NPM/Yarn built on top of Alpine Linux Docker Image (Approx. 50MB)
+# Minimal Ruby and NodeJS/NPM/Yarn built on top of Alpine Linux Docker Image (Approx. 53MB)
 Self explanatory, ruby build on top of nodejs and alpine image
 
 This will be a great base image for people working with rails applications.
