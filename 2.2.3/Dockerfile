@@ -35,7 +35,7 @@ RUN set -ex \
     linux-headers \
     make \
     ncurses-dev \
-    openssl-dev \
+    libressl-dev \
     procps \
 # https://bugs.ruby-lang.org/issues/11869 and https://github.com/docker-library/ruby/issues/75
     readline-dev \
@@ -68,7 +68,7 @@ RUN set -ex \
     ca-certificates \
     curl \
     libffi-dev \
-    openssl-dev \
+    libressl-dev \
     yaml-dev \
     procps \
     zlib-dev \

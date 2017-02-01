@@ -35,7 +35,7 @@ RUN set -ex \
     make \
     ncurses-dev \
     openssl \
-    openssl-dev \
+    libressl-dev \
     procps \
     readline-dev \
     ruby \
@@ -79,7 +79,7 @@ RUN set -ex \
     bzip2 \
     ca-certificates \
     libffi-dev \
-    openssl-dev \
+    libressl-dev \
     yaml-dev \
     procps \
     zlib-dev \
