@@ -14,7 +14,8 @@ Hope this will help others in the future.
 - [`2.2.6`, `2.2`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.6/Dockerfile)
 - [`2.3.0`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.0/Dockerfile)
 - [`2.3.1`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile)
-- [`2.3.3`, `2.3`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.3/Dockerfile)
+- [`2.3.3`, `2.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.3/Dockerfile)
+- [`2.4.1`, `2.4`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.4.1/Dockerfile)
 
 
 ### Gem dependencies
