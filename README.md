@@ -13,13 +13,17 @@ Hope this will help others in the future.
 - [`2.2.5`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.5/Dockerfile)
 - [`2.2.6`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.6/Dockerfile)
 - [`2.2.7`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.7/Dockerfile)
-- [`2.2.8`, `2.2`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.8/Dockerfile)
+- [`2.2.8`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.8/Dockerfile)
+- [`2.2.9`, `2.2`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.2.9/Dockerfile)
 - [`2.3.0`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.0/Dockerfile)
 - [`2.3.1`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.1/Dockerfile)
 - [`2.3.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.3/Dockerfile)
-- [`2.3.4`, `2.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.4/Dockerfile)
+- [`2.3.4`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.4/Dockerfile)
+- [`2.3.5`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.5/Dockerfile)
+- [`2.3.6`, `2.3`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.3.6/Dockerfile)
 - [`2.4.1`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.4.1/Dockerfile)
 - [`2.4.2`, `2.4`, `latest`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.4.2/Dockerfile)
+- [`2.5.0`, `2.5`](https://github.com/Daniel-ltw/ruby-node-alpine/blob/master/2.4.2/Dockerfile)
 
 
 ### Gem dependencies
